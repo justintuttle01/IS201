@@ -1,0 +1,27 @@
+.title{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+}
+.black{
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+.subtitle{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.red {
+    color:red;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    }
+    
+    .blue {
+        color:blue;
+        font-size: 25px;
+        font-family: Georgia, 'Times New Roman', Times, serif ;
+        background-color: black;
+        }
+        

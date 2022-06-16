@@ -1,0 +1,52 @@
+.footerdiv{
+    background-color: black;
+    text-align: center;
+    width: 100vw;
+    height: 70px;
+    border-top:3px solid black;
+    color: white;
+
+}
+.navdiv{
+    background-color: black;
+    color: white;
+    text-align: right;
+    width: 90vw;
+    height: 70px;
+    border-top:3px solid black;
+    border-right: 10vw solid black;
+    text-size-adjust: 25;
+
+}
+.tableaudiv{
+    background-color: white;
+    text-align: center;
+    width: 100vw;
+    height: 85vw;
+    border-top:3px solid black;
+
+}
+
+.title{
+    font-size: xx-large;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+.footer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.graphdiv{
+    height: 500px; width: 40vw;
+    float: left;
+    padding: 3vw
+}
+
+.text{
+    background-color: gray;
+    color: white;
+    
+}
